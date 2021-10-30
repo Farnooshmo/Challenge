@@ -47,9 +47,11 @@ li {
   margin-bottom: 20px;
 }
 .link {
-  font-weight: lighter;
   padding-left: 400px;
 }
 .link:hover {
   cursor: pointer;
+}
+.describe {
+  font-size: small;
 }
