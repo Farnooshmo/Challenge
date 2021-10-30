@@ -20,6 +20,7 @@ li {
   line-height: 1;
   list-style: none;
 }
+
 .weather-app {
   border: 1px solid #dadde1;
   padding: 15px;
@@ -44,4 +45,7 @@ li {
 }
 .search-form {
   margin-bottom: 20px;
+}
+.link {
+  display: block;
 }
